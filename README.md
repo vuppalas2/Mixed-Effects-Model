@@ -35,7 +35,7 @@ between the FK506 and CsA groups?
 ## Data
 
 - **File:** `Data.csv`
-- **Sample size:** 54 renal transplant recipients
+- **Sample size:** 54 simulated renal transplant recipients
 - **Groups:** FK506 (Treatment, n = 27) vs CsA (Control, n = 27)
 - **Outcome:** Total cholesterol (mg/dL)
 - **Time points:** Baseline, Month 1, Month 3, Month 6
