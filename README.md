@@ -1,11 +1,5 @@
 # Mixed Effects Model — Longitudinal Cholesterol Analysis in Renal Transplant Recipients
 
-**Author:** Sushma Vuppala  
-**Language:** R  
-**File:** `Mixed_Effect_Model.R`
-
----
-
 ## Background
 
 Cyclosporine A (CsA) is an immunosuppressive agent widely used in renal transplant 
